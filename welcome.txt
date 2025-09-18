@@ -1,2 +1,2 @@
-This is the first line
-Welcome to the new file
+Hello from python and git
+come to the new file
