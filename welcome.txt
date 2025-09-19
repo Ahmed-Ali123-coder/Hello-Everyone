@@ -2,3 +2,5 @@ Hello from python and git
 come to the new file
 Writing someting in a file
 Hey I am learing Git commands
+Writing someting in a file
+Writing someting in a file
