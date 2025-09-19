@@ -3,7 +3,7 @@ print("Welcome to git")
 
 try : 
     with open("welcome.txt" , "+a") as file : 
-        file.write("Hey I am learing Git commands\n")
+        file.write("Writing someting in a file\n")
         file.seek(0)
         for line in file : 
             print(line.strip())
