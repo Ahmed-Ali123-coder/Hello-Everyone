@@ -1,2 +1,3 @@
 Hello from python and git
 come to the new file
+Writing someting in a file
