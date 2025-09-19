@@ -2,9 +2,7 @@ print("Hello form index file")
 print("Welcome to git")
 
 try:
-    with open("welcome.txt", "a+") as file:
-        file.write("Writing someting in a file\n")
-        file.seek(0)
+    with open("welcome.txt", "r") as file:
         for line in file:
             print(line.strip())
 except FileNotFoundError as ex:
